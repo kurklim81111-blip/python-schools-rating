@@ -1,0 +1,7 @@
+[
+  {"year": 1963, "city": "Самково", "students": 1000, "students_class": 18},
+  {"year": 1955, "city": "Пермь", "students": 11000, "students_class": 25},
+  {"year": 1940, "city": "Москва", "students": 9000, "students_class": 34},
+  {"year": 1922, "city": "Екатеринбург", "students": 10000, "students_class": 23},
+  {"year": 2020, "city": "Магадан", "students": 13000, "students_class": 48}
+]
